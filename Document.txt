@@ -1,0 +1,13 @@
+http://themeatelier.net/site-templates/appiya/
+
+---font---
+Quicksand,Poppins
+
+---color---
+Purple: #5A02B4
+
+---icon---
+fontawesome
+
+---Container---
+1170px
